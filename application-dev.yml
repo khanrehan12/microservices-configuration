@@ -1,6 +1,6 @@
-spring:
-  application:
-    name: dev-profile
+# spring:
+#   application:
+#     name: dev-profile
 
 eureka:
   instance:
